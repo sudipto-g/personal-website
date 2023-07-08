@@ -1,7 +1,7 @@
 ---
 # banner
 banner:
-  title : "Hi! I’m <br> Sudipto <br> a Software Engineer <br> and a UX Research enthusiast"
+  title : "Hi! I’m <br> Sudipto <br> a Computer Science Engineer"
 
 # about
 about:
@@ -18,19 +18,19 @@ skill:
   title : "Skills"
   item:
     - title : "Computer Vision"
-      progress : "70%"
+      #progress : "70%"
       color : "#fdb157"
       
     - title : "Machine Learning"
-      progress : "60%"
+      #progress : "60%"
       color : "#9473e6"
       
     - title : "Systems & Programming"
-      progress : "80%"
+      #progress : "80%"
       color : "#bdecf6"
       
     - title : "UX Research"
-      progress : "70%"
+      #progress : "70%"
       color : "#ffbcaa"
 
 # experience

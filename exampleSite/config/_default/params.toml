@@ -9,7 +9,7 @@ logo_width = ""
 # if logo_webp set false, will not generate WEBP version of logo | default is true
 logo_webp = true
 # logo text will only show when logo is missing.
-logo_text = "Kross"
+logo_text = "Sudipto"
 
 # purgeCSS
 purge_css = true
@@ -102,7 +102,7 @@ mastodon = "" # Your verification code
 # google map
 [google_map]
 enable = true
-embed_url = "https://www.google.com/maps/embed/v1/place?q=Washington+D.C.,+DC,+USA&key=AIzaSyBFw0Qbyq9zTFTd-tUY6dZWTgaQzuU17R8"
+embed_url = "https://goo.gl/maps/UZ2bJhM2BJeANrea6"
 
 # cookies
 [cookies]
