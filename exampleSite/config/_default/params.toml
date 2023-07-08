@@ -38,9 +38,9 @@ preloader = "images/preloader.gif" # use jpg, png, svg or gif format.
 
 # contact info
 [contact_info]
-address = "9567 Turner Trace Apt. BC C3G8A4"
-email = "info@email.com"
-mobile = "+211234565523"
+address = "Baner,Pune, Maharashtra 411045"
+email = "gs.ghoshsudipto@gmail.com"
+mobile = "(+91) 90738-44396"
 
 # Crisp Chat
 [crisp_chat]
