@@ -1,12 +1,12 @@
 ---
 # banner
 banner:
-  title : "Hi! I’m <br> Christoher <br> UX designer"
+  title : "Hi! I’m <br> Sudipto <br> a Software Enginner and a UX enthusiast"
 
 # about
 about:
   enable : true
-  content : "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur."
+  content : "Bonjour! <br> This is my little niche on the web <br> I'm currently located in Pune, working as a Software Engineer for Veritas Technologies LLC.<br> I hail from the city of Kolkata, and have completed my Bachelors in Technology from the Indian Institute of Engineering Science and Technology, Shibpur (erstwhile BE College, Shibpur) the third oldest engineering college of my countr."
   button:
     enable : true
     label : "know more"
@@ -17,19 +17,19 @@ skill:
   enable : true
   title : "Skills"
   item:
-    - title : "Web Design"
+    - title : "Computer Vision"
       progress : "90%"
       color : "#fdb157"
       
-    - title : "Logo Design"
+    - title : "Machine Learning"
       progress : "60%"
       color : "#9473e6"
       
-    - title : "After Effects"
+    - title : "Systems & Programming"
       progress : "80%"
       color : "#bdecf6"
       
-    - title : "Web App"
+    - title : "UX Research"
       progress : "70%"
       color : "#ffbcaa"
 
@@ -39,44 +39,37 @@ experience:
   title : "Experience"
   item: 
     - logo : "images/experience/icon-1.png"
-      title : "Junior UX Designer"
-      company : "WEBEX"
-      duration : "Jan 2007 - Feb 2009"
+      title : "Associate Software Engineer"
+      company : "Veritas Techonologies LLC"
+      duration : "July 2022 - Present"
       
     - logo : "images/experience/icon-2.png"
-      title : "UX & UI Designer"
-      company : "AUGMEDIX"
-      duration : "Mar 2009 - Aug 2014"
+      title : "Associate Developer Intern"
+      company : "IBM"
+      duration : "Jan 2022 - June 2022"
       
     - logo : "images/experience/icon-1.png"
-      title : "Senior UI Designer"
-      company : "THEMEFISHER"
-      duration : "Sep 2014 - Present"
+      title : "DAAD-WISE Research Intern"
+      company : "University of Bremen"
+      duration : "May 2021 - Sep 2021"
 
 # education
 education:
   enable : true
   title : "Education"
   item:
-    - title : "Marters in UX Design"
-      year : "2006"
-      academy : "Masassusets Institute of Technology"
+    - title : "B.Tech Honours in Computer Science and Technology"
+      year : "2022"
+      academy : "Indian Institute of Engineering Science and Technology, Shibpur"
       
-    - title : "Honours in Fine Arts"
-      year : "2004"
-      academy : "Harvard University"
+    - title : "Indian School Certificate (Higher Secondary)"
+      year : "2018"
+      academy : "St. James' School, Kolkata"
       
-    - title : "Higher Secondary Certificat"
-      year : "2000"
-      academy : "Cardiff School"
-      
-    - title : "Secondary School Certificate"
-      year : "1998"
-      academy : "Cardiff School"
 
 # service
 service:
-  enable : true
+  enable : false
   title : "Services"
   item:
     - title : "UI Design"
@@ -96,14 +89,14 @@ service:
 
 # portfolio
 portfolio:
-  enable : true
+  enable : false
   title : "Portfolio"
   item_show : 5
   # portfolio item comes from 'data/portfolio.yml' item.
 
 # testimonial
 testimonial:
-  enable : true
+  enable : false
   title : "Testimonials"
   item:
     - name : "Jesica Gomez"
@@ -123,7 +116,7 @@ testimonial:
 
 # client logo slider
 clients_logo_slider:
-  enable : true
+  enable : false
   item:
     - logo : "images/clients-logo/client-logo-1.png"
       URL : "http://examplesite.com"
