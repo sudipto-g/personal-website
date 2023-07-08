@@ -17,7 +17,7 @@ skill:
   enable : true
   title : "Skills"
   item:
-    - title : "Computer Vision & ML"
+    - title : "Computer Vision & Machine Learning"
       progress : "70%"
       color : "#fdb157"
       
@@ -29,9 +29,13 @@ skill:
       progress : "80%"
       color : "#bdecf6"
       
-    - title : "UX Research & Prototyping"
+    - title : "UI/UX Research & Prototyping"
       progress : "70%"
       color : "#ffbcaa"
+      
+    - title : "Technical Writing & Documentation"
+      progress : "60%"
+      color : "#9473e6"
 
 # experience
 experience:
@@ -150,7 +154,7 @@ clients_logo_slider:
 
 # blog
 blog:
-  enable : true
+  enable : false
   title : "Blogs"
   # blog post comes from "content/blog" folder
 ---
