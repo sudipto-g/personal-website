@@ -25,7 +25,7 @@ google_tag_manager = "" # example: G-XXXXXXXXXX
 custom_script = ""
 
 # Author
-author = "Johnathan Smith"
+author = "Sudipto Ghosh"
 
 # copyright
 copyright = "Copyright by your company"
@@ -155,7 +155,7 @@ logo = "images/clients-logo/client-logo-5.png"
 ############################# social site ########################
 [[social]]
 icon = "ti-facebook" # themify icon https =themify.me/themify-icons
-link = "#" 
+link = "https://m.facebook.com/sudiptog.fb" 
 title = "facebook" 
 
 [[social]]
@@ -165,10 +165,10 @@ title = "twitter"
 
 [[social]]
 icon = "ti-instagram" # themify icon - https://themify.me/themify-icons
-link = "#" 
+link = "https://instagram.com/sudipto_g_?igshid=NGExMmI2YTkyZg==" 
 title = "instagram" 
 
 [[social]]
 icon = "ti-linkedin" # themify icon - https://themify.me/themify-icons
-link = "#" 
+link = "https://www.linkedin.com/in/sudipto-g" 
 title = "linkedin"

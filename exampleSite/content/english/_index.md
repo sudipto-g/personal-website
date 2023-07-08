@@ -1,12 +1,12 @@
 ---
 # banner
 banner:
-  title : "Hi! I’m <br> Sudipto <br> a Software Enginner and a UX enthusiast"
+  title : "Hi! I’m <br> Sudipto <br> a Software Engineer <br> and a UX Research enthusiast"
 
 # about
 about:
   enable : true
-  content : "Bonjour! <br> This is my little niche on the web <br> I'm currently located in Pune, working as a Software Engineer for Veritas Technologies LLC.<br> I hail from the city of Kolkata, and have completed my Bachelors in Technology from the Indian Institute of Engineering Science and Technology, Shibpur (erstwhile BE College, Shibpur) the third oldest engineering college of my countr."
+  content : "Bonjour! <br> This is my little niche on the web <br> I'm currently located in Pune, working as a Software Engineer for Veritas Technologies LLC.<br> I hail from the city of Kolkata, and have completed my Bachelors in Technology from the Indian Institute of Engineering Science and Technology, Shibpur (erstwhile BE College, Shibpur) the third oldest engineering college of my country."
   button:
     enable : true
     label : "know more"
@@ -18,7 +18,7 @@ skill:
   title : "Skills"
   item:
     - title : "Computer Vision"
-      progress : "90%"
+      progress : "70%"
       color : "#fdb157"
       
     - title : "Machine Learning"

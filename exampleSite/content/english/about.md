@@ -8,7 +8,7 @@ layout: "about"
 
 # work process
 work_process:
-  enable : true
+  enable : false
   title : "Work Process"
   item:
   - title : "Research and Plan"
@@ -26,7 +26,7 @@ work_process:
 
 # team
 team:
-  enable: true
+  enable: false
   title : "My Team"
   team_member:
     - title : "Jack Schenziwe"
@@ -49,8 +49,13 @@ clients_logo_slider:
   # clients logo comes from 'params.toml' file
 ---
 
-Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
+My broad arena of study is in the field of Computer Science and Engineering.
+However, in my short life, I've forayed into the fields of Computational Intelligence especially Computer Vision, Statistical Machine Learning, Data Mining and a bit of Soft Computing.
 
-Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident.
+I'm also interested in out-of-the-distribution generalisation and explainability in Deep Learning.
 
-Deserunt mollit anim id est laborum. Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. Nemo enim ipsam voluptatem quia.
+For a short while, I've dabbled into the world of Databases as well, and have cemented my interests in modelling semi-structured/unstructured data.
+
+In my free time, I try to capture my understanding of the world of AI here.
+I am also into a wee bit of vocal music and enjoy literary fiction. 
+I also write, at times, for happiness! If I show my appreciation for something, I'd be likely to call it 'Art'.
