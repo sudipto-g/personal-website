@@ -17,20 +17,20 @@ skill:
   enable : true
   title : "Skills"
   item:
-    - title : "Computer Vision"
-      #progress : "70%"
+    - title : "Computer Vision & ML"
+      progress : "70%"
       color : "#fdb157"
       
-    - title : "Machine Learning"
-      #progress : "60%"
-      color : "#9473e6"
+    #- title : "Machine Learning"
+    #  progress : "60%"
+    #  color : "#9473e6"
       
     - title : "Systems & Programming"
-      #progress : "80%"
+      progress : "80%"
       color : "#bdecf6"
       
-    - title : "UX Research"
-      #progress : "70%"
+    - title : "UX Research & Prototyping"
+      progress : "70%"
       color : "#ffbcaa"
 
 # experience
