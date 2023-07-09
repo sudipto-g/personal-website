@@ -15,7 +15,7 @@ logo_text = "Sudipto"
 purge_css = true
 
 # contact form action
-contact_form_action = "https://formspree.io/f/xrgwgkpz" # contact form works with [https://airform.io/] or [https://formspree.io]
+#contact_form_action = "https://formspree.io/f/xrgwgkpz" # contact form works with [https://airform.io/] or [https://formspree.io]
 
 # google tag manager, see https://developers.google.com/tag-manager/
 google_adsense = "" # example: ca-pub-xxxxxxxxxxxxxxxx
@@ -101,8 +101,8 @@ mastodon = "" # Your verification code
 
 # google map
 [google_map]
-enable = true
-embed url = "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d15129.247664419474!2d73.77350115763011!3d18.55997127065752!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3bc2becff05dd3cb%3A0xa1911297fb7fab7d!2sBaner%2C%20Pune%2C%20Maharashtra!5e0!3m2!1sen!2sin!4v1688891659905!5m2!1sen!2sin"
+enable = false
+embed url = ""
 # cookies
 [cookies]
 enable = false
