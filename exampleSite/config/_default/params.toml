@@ -102,7 +102,7 @@ mastodon = "" # Your verification code
 # google map
 [google_map]
 enable = false
-embed url = ""
+embed url = "https://goo.gl/maps/qBzW4Koma6ZCyiwj9"
 # cookies
 [cookies]
 enable = false
