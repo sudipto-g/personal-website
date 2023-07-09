@@ -25,7 +25,7 @@ skill:
     #  progress : "60%"
     #  color : "#9473e6"
       
-    - title : "Systems & Programming"
+    - title : "UNIX based Systems & Programming"
       progress : "80%"
       color : "#bdecf6"
       
