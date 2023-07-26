@@ -13,9 +13,9 @@ draft: false
 
 Most object tracking systems consider the video as “motion picture” or, a set of images projected one after the other, at a very high frame rate.  
 Consequently, the Object Tracking modules available in most Open Source libraries, eg: OpenCV work in the following way (at a meta level):  
-* In the video stream, the first frame is captured
-* A Region of Interest (RoI) selection is made based on the initial frame
-* The region selected in the previous step is tracked through the next frames
+In the video stream, the first frame is captured  
+A Region of Interest (RoI) selection is made based on the initial frame  
+The region selected in the previous step is tracked through the next frames  
 Thus, these methods of tracking objects work fine, so long as the object remains within the frame.  
 As soon as the objects move out of the frame, no longer is the tracking valid.  
 Further, in some adaptive trackers, once the objects move out of frame, they may not be recognised even if they reappear in future frames, as adaptive trackers keep updating their state based on the current ground truth data i.e. current video frame.  
