@@ -6,7 +6,7 @@ banner:
 # about
 about:
   enable : true
-  content : Bonjour! <br> This is my little niche on the web <br> I'm currently located in Pune, working as a Software Engineer for Veritas Technologies LLC.<br> I hail from the city of Kolkata, and have completed my Bachelors in Technology from the Indian Institute of Engineering Science and Technology, Shibpur (erstwhile BE College, Shibpur) the third oldest engineering college of my country.<br> My preferred pronouns are they/them.<br> My Cv can be found [here](https://drive.google.com/file/d/1hLJ4gKrZmn7mw1BQs23JJZROXuwsMWHT/view?usp=sharing)
+  content : Bonjour! <br> This is my little niche on the web <br> I'm currently located in Pune, working as a Software Engineer for Veritas Technologies LLC.<br> I hail from the city of Kolkata, and have completed my Bachelors in Technology from the Indian Institute of Engineering Science and Technology, Shibpur (erstwhile BE College, Shibpur) the third oldest engineering college of my country.<br> My preferred pronouns are they/them.<br> My CV can be found [here](https://drive.google.com/file/d/1hLJ4gKrZmn7mw1BQs23JJZROXuwsMWHT/view?usp=sharing)
   button:
     enable : true
     label : "know more"
@@ -17,7 +17,7 @@ skill:
   enable : true
   title : "Skills"
   item:
-    - title : "Computer Vision & Machine Learning"
+    - title : "Machine Learning & Computer Vision"
       progress : "70%"
       color : "#fdb157"
       
