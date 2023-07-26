@@ -59,3 +59,5 @@ For a short while, I've dabbled into the world of Databases as well, and had wor
 In my free time, I try to capture my understanding of the world of AI [here](https://docs.google.com/presentation/d/1zVg4f_-iXtzJQdExT35TnOWX5CDr9BXwB_Bpq2ChYVI/edit?usp=sharing).
 I am also into a wee bit of vocal music and enjoy literary fiction. 
 I also write, at times, for happiness! If I show my appreciation for something, I'd be likely to call it 'Art'.
+
+You can find my CV [here](https://drive.google.com/file/d/1hLJ4gKrZmn7mw1BQs23JJZROXuwsMWHT/view?usp=sharing)

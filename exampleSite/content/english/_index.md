@@ -1,12 +1,12 @@
 ---
 # banner
 banner:
-  title : "Hi! I’m <br> Sudipto <br> a Computer Science Engineer"
+  title : "Hi! <br> I’m Sudipto <br> a Computer Science Engineer"
 
 # about
 about:
   enable : true
-  content : Bonjour! <br> This is my little niche on the web <br> I'm currently located in Pune, working as a Software Engineer for Veritas Technologies LLC.<br> I hail from the city of Kolkata, and have completed my Bachelors in Technology from the Indian Institute of Engineering Science and Technology, Shibpur (erstwhile BE College, Shibpur) the third oldest engineering college of my country.<br> My preferred pronouns are they/them. 
+  content : Bonjour! <br> This is my little niche on the web <br> I'm currently located in Pune, working as a Software Engineer for Veritas Technologies LLC.<br> I hail from the city of Kolkata, and have completed my Bachelors in Technology from the Indian Institute of Engineering Science and Technology, Shibpur (erstwhile BE College, Shibpur) the third oldest engineering college of my country.<br> My preferred pronouns are they/them.<br> My Cv can be found [here](https://drive.google.com/file/d/1hLJ4gKrZmn7mw1BQs23JJZROXuwsMWHT/view?usp=sharing)
   button:
     enable : true
     label : "know more"
