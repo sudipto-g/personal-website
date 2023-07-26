@@ -54,8 +54,8 @@ However, in my short life, I've forayed into the fields of Computational Intelli
 
 I'm also interested in out-of-the-distribution generalisation and explainability in Deep Learning.
 
-For a short while, I've dabbled into the world of Databases as well, and have cemented my interests in modelling semi-structured/unstructured data.
+For a short while, I've dabbled into the world of Databases as well, and had worked for a while modelling semi-structured/unstructured data.
 
-In my free time, I try to capture my understanding of the world of AI here.
+In my free time, I try to capture my understanding of the world of AI [here](https://docs.google.com/presentation/d/1zVg4f_-iXtzJQdExT35TnOWX5CDr9BXwB_Bpq2ChYVI/edit?usp=sharing).
 I am also into a wee bit of vocal music and enjoy literary fiction. 
 I also write, at times, for happiness! If I show my appreciation for something, I'd be likely to call it 'Art'.

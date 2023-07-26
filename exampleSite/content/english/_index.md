@@ -1,7 +1,7 @@
 ---
 # banner
 banner:
-  title : "Hi! I’m <br> Sudipto <br> a Computer Science Engineer"
+  title : "Hi! I’m <br> Sudipto (they/them)<br> a Computer Science Engineer"
 
 # about
 about:
