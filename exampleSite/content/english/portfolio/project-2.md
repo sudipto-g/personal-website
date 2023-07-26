@@ -3,7 +3,7 @@ title: "Facial Keypoints Detector"
 date: 2019-05-12T12:14:34+06:00
 image: "images/portfolio/item-2.png"
 project_url : "https://github.com/sudipto-g/Facial_Keypts_Detector"
-categories: ["Machine Learning", "Development"]
+categories: ["ml", "development"]
 description: "This is meta description."
 draft: false
 ---
