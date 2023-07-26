@@ -155,17 +155,17 @@ logo = "images/clients-logo/client-logo-5.png"
 ############################# social site ########################
 [[social]]
 icon = "ti-facebook" # themify icon https =themify.me/themify-icons
-link = "https://m.facebook.com/sudiptog.fb" 
+link = "https://facebook.com/sudiptog.fb" 
 title = "facebook" 
 
 [[social]]
 icon = "ti-twitter" # themify icon - https://themify.me/themify-icons
-link = "#" 
+link = "https://twitter.com/Sudipto_Ghosh_" 
 title = "twitter" 
 
 [[social]]
 icon = "ti-instagram" # themify icon - https://themify.me/themify-icons
-link = "https://instagram.com/sudipto_g_?igshid=NGExMmI2YTkyZg==" 
+link = "https://instagram.com/sudipto_g_/" 
 title = "instagram" 
 
 [[social]]
