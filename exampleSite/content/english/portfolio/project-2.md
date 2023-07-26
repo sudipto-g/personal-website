@@ -1,30 +1,39 @@
 ---
-title: "Artwork Design"
+title: "Facial Keypoints Detector"
 date: 2019-05-12T12:14:34+06:00
 image: "images/portfolio/item-2.png"
 client: "John Doe"
-project_url : "https://themefisher.com/"
-categories: ["branding"]
+project_url : "https://github.com/sudipto-g/Facial_Keypts_Detector"
+categories: ["Development"]
 description: "This is meta description."
 draft: false
 ---
 
-#### Project Requirements
+#### Introduction
 
-Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore
-et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip
-ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu
-fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt
-mollit anim id est laborum.
+An attempt at building a Facial Key Points Detector.  
+Facial keypoints include points around the eyes, nose, and mouth on a face and can used for facial tracking, facial pose recognition, facial filters, and emotion recognition.
+
+#### The Pipeline
+
+* Given a picture, faces in it are detected using a [Haar-Cascade](https://towardsdatascience.com/face-detection-with-haar-cascade-727f68dafd08)
+* Next, on each of the localised faces, some cropping, standardisation, normalisation and resizing techniques are applied before presenting it to the facial key point recogniser.
+* The keyoint recogniser runs a CNN to warp the image and maps it to 68 key points.
+
+#### A Demo
+
+The input image:  
+
+![Input Image](images/portfolio/item-2.png)
 
 
-#### Project Details
+The detected faces (Haar Casacde detects some aberrant faces) Detected Faces:  
 
-Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et
-dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex
-ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat
-nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit
-anim id est laborum. Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque
-laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae
-dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia
-consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt. Neque porro quisquam est.
+![Detected Faces](images/portfolio/item-2.png)
+
+
+And then, finally, the detected keypoints of my own face:  
+
+![Detected Keypoints](images/portfolio/item-2.png)
+
+Thus, this is an example of my Facial Keypoint Detector being applied to my own image :p
