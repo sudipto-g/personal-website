@@ -67,7 +67,7 @@ visitor = true
 [metadata]
 author = "Themefisher" 
 description = "This is meta description" 
-image = "images/favicon.ico" # this image will be used as fallback if a page has no image of its own
+image = "images/favicon.png" # this image will be used as fallback if a page has no image of its own
 keywords = ["Boilerplate", "Hugo", "Themefisher", "GetHugoThemes"] 
 
 # matomo tracking: see https://matomo.org/
