@@ -95,7 +95,7 @@ service:
 # portfolio
 portfolio:
   enable : true
-  title : "Portfolio"
+  title : "Project"
   item_show : 5
   # portfolio item comes from 'data/portfolio.yml' item.
 
