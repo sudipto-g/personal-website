@@ -2,6 +2,7 @@
 title: "Snake++"
 date: 2019-05-12T12:14:34+06:00
 image: "images/portfolio/item-2.png"
+img_1: "https://github.com/sudipto-g/SnakeGame/blob/master/code_structure.png"
 project_url : "https://github.com/sudipto-g/SnakeGame"
 categories: ["development"]
 description: "An attempt to build a game that was ubiquitious when Nokia cells were around"
@@ -19,5 +20,7 @@ In extension, an option has been set for an AI to play the game.
 
 #### Project Details
 
-The Standard Controller(), Play(), Render() moves were used to develop this Game Loop, much like all other games.
-[![The Game Loop](https://github.com/sudipto-g/SnakeGame/blob/master/code_structure.png)
+The Standard Controller(), Play(), Render() moves were used to develop this Game Loop, much like all other games.  
+The Game Loop:
+
+
