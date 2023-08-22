@@ -26,4 +26,6 @@ Finally, proposed a combination of learned representations and heuristics. Demon
 
 [Thesis Link](https://drive.google.com/file/d/19HN3uXz19SxmigDAjEz7OjU-oqagDTyf/view?usp=sharing)  
 
-Our work got accepted to the Tehcnical Track MAISoN workshop of IJCAI 2023!  
+Our work got accepted to the MAISoN workshop of the IJCAI 2023!  
+
+I presented at the workshop, [here](https://drive.google.com/file/d/1zZTemQ5n1ks1w0PabGAkKA0is6r59MXO/view?usp=sharing) is a recording of the same.  
