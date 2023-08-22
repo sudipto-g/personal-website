@@ -2,7 +2,7 @@
 title: "Snake++"
 date: 2019-05-12T12:14:34+06:00
 image: "images/portfolio/item-2.png"
-img_1: "https://github.com/sudipto-g/SnakeGame/blob/master/code_structure.png"
+img_1: "https://github.com/sudipto-g/SnakeGame/blob/4591c97ae808709a17c56540f174b14e6e299475/code_structure.png"
 project_url : "https://github.com/sudipto-g/SnakeGame"
 categories: ["development"]
 description: "An attempt to build a game that was ubiquitious when Nokia cells were around"
