@@ -2,22 +2,20 @@
 title: "Snake++"
 date: 2019-05-12T12:14:34+06:00
 image: "images/portfolio/item-4.png"
-project_url : "https://github.com/sudipto-g/SnakeGame"
-categories: ["development"]
-description: "An attempt to build a game that was ubiquitious when Nokia cells were around"
+#project_url : "https://github.com/sudipto-g/SnakeGame"
+categories: ["UXResearch"]
+description: "What Makes the Veritas NetBackup User Experience Complex?"
 draft: false
 ---
 
 #### Project Requirements
 
-This project was inspired by [this StackExchange post](https://codereview.stackexchange.com/questions/212296/snake-game-in-c-with-sdl) and set of responses.  
-Much as the GIF suggests, this project was an attempt to revive the Game I grew up playing frequently on Nokia phones.  
-In extension, an option has been set for an AI to play the game.  
-(Caveat: the AI is not fool-proof and in a future extension, I wish to handle the corner case wherein the game ends since the AI fails to see the situation where the snake's head hits its tail, owing to its body length being too long).  
-
-
+NetBackup (NBU) is a flagship offering of the company for data protection. Despite having a rich customer base, various problems riddle the product management, reporting and day-to-day usage.  
+In this work, NBU’s User Experience landscape is studied, and examined, why in particular, customers find it “Complex”.  
+To that end, the “experience” of using NBU is broken down into various phases and analyzed quantitatively. We also suggest areas in which investment should be made to address user demands.  
+The work, undertaken by Radhika Wakankar and myself, has been published as a Technical Paper in Veritas Illuminate 2023.   
 
 #### Project Details
 
-The Standard Controller(), Play(), Render() moves were used to develop this Game Loop, much like all other games.
-[![The Game Loop](https://github.com/sudipto-g/SnakeGame/blob/master/code_structure.png)
+Confidentiality requirements forbid me from writing much about the same, here.  
+For further details, please contact me via e-mail at Sudipto.Ghosh@veritas.com. I shall be happy to assist with details of the study.  
