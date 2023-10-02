@@ -17,5 +17,5 @@ The work, undertaken by Radhika Wakankar and myself, has been published as a Tec
 
 #### Project Details
 
-A short, obfuscated presentation of the study can be found [here](https://drive.google.com/file/d/1g_8N5bp-9lzd93W_LAezCrbWYpgbcahO/view?usp=sharing).    
+A short, obfuscated presentation of the study can be found [here](https://drive.google.com/file/d/1g_8N5bp-9lzd93W_LAezCrbWYpgbcahO/view?usp=sharing) and the technical paper, [here](https://drive.google.com/file/d/1pMtneM6c9ecZ0qxeVVvSUQjz0P6bwqGA/view?usp=sharing).    
 For further details, please contact me via e-mail at Sudipto.Ghosh@veritas.com. I shall be happy to assist with details of the study.  
