@@ -6,7 +6,7 @@ banner:
 # about
 about:
   enable : true
-  content : Bonjour! <br> This is my little niche on the web <br> I'm currently located in Pune, working as a Software Engineer for Veritas Technologies LLC.<br> I hail from the city of Kolkata, and have completed my Bachelors in Technology from the Indian Institute of Engineering Science and Technology, Shibpur (erstwhile BE College, Shibpur) the third oldest engineering college of my country.<br> My CV can be found [here](https://drive.google.com/file/d/1hLJ4gKrZmn7mw1BQs23JJZROXuwsMWHT/view?usp=sharing)
+  content : Bonjour! <br> This is my little niche on the web <br> I'm currently located in Pune, working as a Software Engineer for Veritas Technologies LLC.<br> I hail from the city of Kolkata, and have completed my Bachelors in Technology from the Indian Institute of Engineering Science and Technology, Shibpur (erstwhile BE College, Shibpur) the third oldest engineering college of my country.<br> My CV can be found [here](https://github.com/sudipto-g/personal-website/blob/5ca3919da3245e63b498306b78cb897e11b3c6ee/exampleSite/assets/SudiptoGhosh%20-%20CV.pdf)
   button:
     enable : true
     label : "know more"

@@ -1,6 +1,6 @@
 ---
 title: "What makes the NetBackup User Experience Complex?"
-date: 2023-03-14
+date: 2019-05-12T12:14:34+06:00
 image: "images/portfolio/item-4.png"
 #project_url : "https://github.com/sudipto-g/SnakeGame"
 categories: ["UX"]

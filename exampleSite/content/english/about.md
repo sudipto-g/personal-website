@@ -60,4 +60,4 @@ In my free time, I try to capture my understanding of the world of AI [here](htt
 I am also into a wee bit of vocal music and enjoy literary fiction. 
 I also write, at times, for happiness! If I show my appreciation for something, I'd be likely to call it 'Art'.
 
-You can find my CV [here](https://drive.google.com/file/d/1hLJ4gKrZmn7mw1BQs23JJZROXuwsMWHT/view?usp=sharing)
+You can find my CV [here](https://drive.google.com/file/d/1zewFBRJq7r119LGYO6plkMrSCQSgKGoU/view?usp=sharing)
