@@ -4,8 +4,8 @@ date: 2019-05-12T12:14:34+06:00
 image: "images/portfolio/item-1.png"
 client: "John Doe"
 project_url : "https://github.com/sudipto-g/TrackEA"
-categories: ["machinelearning","development"]
-description: "A Multi-Object Tracker through different frames of reference"
+categories: ["ML"]
+#description: "A Multi-Object Tracker through different frames of reference"
 draft: false
 ---
 

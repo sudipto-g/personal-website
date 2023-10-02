@@ -1,6 +1,6 @@
 ---
 title: "Network Link Prediction"
-#date: 2019-05-12T12:14:34+06:00
+date: 2022-04-01
 image: "images/portfolio/item-5.png"
 project_url : "https://github.com/lonewolf045/social-network-link-prediction"
 categories: ["ML"]
