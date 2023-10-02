@@ -1,10 +1,10 @@
 ---
-title: "Snake++"
-date: 2019-05-12T12:14:34+06:00
+title: "What makes the NetBackup User Experience Complex?"
+#date: 2019-05-12T12:14:34+06:00
 image: "images/portfolio/item-4.png"
 #project_url : "https://github.com/sudipto-g/SnakeGame"
-categories: ["UXResearch"]
-description: "What Makes the Veritas NetBackup User Experience Complex?"
+categories: ["UX"]
+description: "What Makes the NetBackup User Experience Complex?"
 draft: false
 ---
 
@@ -17,5 +17,5 @@ The work, undertaken by Radhika Wakankar and myself, has been published as a Tec
 
 #### Project Details
 
-Confidentiality requirements forbid me from writing much about the same, here.  
+A short, obfuscated presentation of the study can be found [here](https://drive.google.com/file/d/1g_8N5bp-9lzd93W_LAezCrbWYpgbcahO/view?usp=sharing).    
 For further details, please contact me via e-mail at Sudipto.Ghosh@veritas.com. I shall be happy to assist with details of the study.  

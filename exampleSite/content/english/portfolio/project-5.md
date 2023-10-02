@@ -1,9 +1,9 @@
 ---
 title: "Network Link Prediction"
-date: 2019-05-12T12:14:34+06:00
+#date: 2019-05-12T12:14:34+06:00
 image: "images/portfolio/item-5.png"
 project_url : "https://github.com/lonewolf045/social-network-link-prediction"
-categories: ["machinelearning","development"]
+categories: ["ML"]
 description: "Social Network Link Prediction"
 draft: false
 ---
@@ -24,8 +24,8 @@ A total of four datasets from the Stanford Network Analysis Project (SNAP) were 
 Experimented using node representations with ensemble ML models and empirically tried neural network architectures for predicting links on 4 different social network datasets.  
 Finally, proposed a combination of learned representations and heuristics. Demonstrated improvements in F1 score across most datasets and predictive modelling techniques using this new feature set.  
 
-[Thesis Link](https://drive.google.com/file/d/19HN3uXz19SxmigDAjEz7OjU-oqagDTyf/view?usp=sharing)  
+[Preprint](https://drive.google.com/file/d/1fSQrkQXJer_B1ZuoHBgKkTpEBXpfH258/view?usp=sharing)  
 
-Our work got accepted to the MAISoN workshop of the IJCAI 2023!  
+Our work got accepted to the MAISoN workshop of the [IJCAI 2023](https://2023.maisonworkshop.org/accepted-papers)!  
 
-I presented at the workshop, [here](https://drive.google.com/file/d/1zZTemQ5n1ks1w0PabGAkKA0is6r59MXO/view?usp=sharing) is a recording of the same.  
+I presented at the workshop, [here](https://drive.google.com/file/d/1zZTemQ5n1ks1w0PabGAkKA0is6r59MXO/view?usp=sharing) is the recording.  
