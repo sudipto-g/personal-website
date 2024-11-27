@@ -17,19 +17,19 @@ skill:
   enable : true
   title : "Skills"
   item:
-    - title : "Machine Learning & Computer Vision"
-      progress : "70%"
+    - title : "Golang, Kubernetes, Docker, Containerisation"
+      progress : "90%"
       color : "#fdb157"
       
-    - title : "UNIX based Systems & Programming"
-      progress : "80%"
+    - title : "Git,LINUX Systems & C++, Python, SQL"
+      progress : "90%"
       color : "#bdecf6"
       
-    - title : "UX Research & Prototyping"
-      progress : "30%"
+    - title : "Operating Systems, Computer Networks "
+      progress : "80%"
       color : "#ffbcaa"
       
-    - title : "Technical Writing & Documentation"
+    - title : "Robot Test Automation, KIND"
       progress : "70%"
       color : "#9473e6"
 
@@ -41,7 +41,7 @@ experience:
     - logo : "images/experience/icon-1.png"
       title : "Associate Software Engineer"
       company : "Veritas Techonologies LLC, Pune"
-      duration : "July 2022 - Present"
+      duration : "July 2022 - Nov 2024"
       
     - logo : "images/experience/icon-2.png"
       title : "Associate Developer Intern"
