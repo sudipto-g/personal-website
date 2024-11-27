@@ -49,9 +49,9 @@ clients_logo_slider:
   # clients logo comes from 'params.toml' file
 ---
 
-My broad arena of study is in the field of Computer Science and Engineering.
-However, in my short life, I've forayed into the fields of Computational Intelligence especially Computer Vision, Machine Learning, and a bit of Human Computer Interation, specifically, User Experience Research. I'm interested in studying privacy protecting and accesibility-enhancing software design, in general, too.  
-I'm currently working as a software engineer for Veritas Technologies.  
+My broad arena of study is in the field of Computer Science and Engineering.  
+I am a skilled software engineer with strong expertise in cloud-native development, microservice-based architecture, and Kubernetes. I have experience in driving the migration of services to cloud infrastructure and enhancing system resilience. I have a strong knowledge of Golang, Kubernetes, Python, and software engineering principles.  
+I was previously working as a software engineer for Veritas Technologies.  
 Working for a product that enables Data Protection, I've come to strongly value the need for privacy and security in general. Getting involved into traiging and solving defects, I've come face-to-face with the issues of secure communication, security vulnerabilities that riddle the domain. To add to it, adherence to privacy requirements makes the problem even more interesting to solve.  
 
 For a short while, I'd dabbled into the world of Databases as well, and had worked for a while modelling semi-structured/unstructured data.
@@ -62,4 +62,4 @@ I am also into a wee bit of vocal music and enjoy literary fiction.
 I write, at times, for happiness!  
 If I show my appreciation for something, I'd be likely to call it 'Art'.
 
-You can find my CV [here](https://sudipto-g.github.io/SudiptoGhoshCV.pdf)
+You can find my Resume [here](https://sudipto-g.github.io/SudiptoGhosh_Resume_Nov25.pdf)

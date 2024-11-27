@@ -1,12 +1,12 @@
 ---
 # banner
 banner:
-  title : "Hi! <br> I’m Sudipto <br> (they/them) <br> a Computer Science Engineer"
+  title : "Hi! <br> I’m Sudipto <br> (he/they) <br> a Computer Science Engineer"
 
 # about
 about:
   enable : true
-  content : Bonjour! <br> This is my little niche on the web <br> I'm currently located in Pune, working as a Software Engineer for Veritas Technologies LLC.<br> I hail from the city of Kolkata, and have completed my Bachelors in Technology from the Indian Institute of Engineering Science and Technology, Shibpur (erstwhile BE College, Shibpur) the third oldest engineering college of my country.<br> My CV can be found [here](https://sudipto-g.github.io/SudiptoGhoshCV.pdf)
+  content : Bonjour! <br> This is my little niche on the web <br> I'm currently located in Pune, and was previously working as a Software Engineer for Veritas Technologies LLC.<br> I hail from the city of Kolkata, and have completed my Bachelors in Technology from the Indian Institute of Engineering Science and Technology, Shibpur (erstwhile BE College, Shibpur) the third oldest engineering college of my country.<br> My Resume can be found [here](https://sudipto-g.github.io/SudiptoGhosh_Resume_Nov25.pdf)
   button:
     enable : true
     label : "know more"
